@@ -1,0 +1,32 @@
+.todo-app__input-container{
+    margin-top:50px;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    width: 290px;
+}
+
+.todo-app__input-title{
+    padding:10px;
+
+}
+
+.todo-app__input-button{
+    background-color: orange;
+    
+}
+
+.todo-app__items-container{
+    margin-top: 20px;
+    display: flex;
+    flex-direction: row;
+    text-align: start;
+    align-items: center;
+    width: 300px;
+    justify-content: space-between;
+    
+}
+
+.todo-app__item-title{
+    width: 200px;
+}
